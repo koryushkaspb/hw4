@@ -13,7 +13,7 @@ switch ($b) {
         echo "единичный";
         break;
     default:
-        echo "нет совпадений";
+        echo "совсем нет совпадений";
 }
 
 var_dump(isset($b));
