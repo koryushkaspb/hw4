@@ -15,5 +15,5 @@ switch (true) {
         echo 3;
         break;
     default:
-        echo "нет совпадений";
+        echo "нет никаких совпадений";
 }
